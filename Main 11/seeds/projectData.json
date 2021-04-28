@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Blog Number 1",
+    "description": "random text generated in this area .",
+    "needed_funding": 5000
+  },
+  {
+    "name": "Blog Number 2",
+    "description": "more random text generated in this area!",
+    "needed_funding": 10000
+  },
+  {
+    "name": "Blog Number 3",
+    "description": "what if i just put something really profound in this example? too bad i didnt.",
+    "needed_funding": 800
+  }
+]
